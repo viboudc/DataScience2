@@ -1,83 +1,83 @@
-case,resident_city,hospital_city,hospital_name,lon,lat,nationality,ncontact_2020-02-20_3698,nquaratine_2020-02-20_3698,age,year_of_birth,sex,date_contact_min,date_contact_max,date_import,date_onset,date_quarantine,date_self_quarantine,date_home_before_quarantine,date_confirm,date_conf_sinceJan1,source,import_source,date_discharged,symptoms,preexisting_conditions,KCDC_no (https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015),date_last_accessed,youtube,time,external_source
-1,NA,Incheon,Incheon Medical Center,126.6685,37.4785,China,45,0,35,1984,F,NA,2020-01-18,2020-01-19,2020-01-18,2020-01-19,NA,NA,2020-01-20,19.00,import,Hubei,2020-02-06,"fever, chills, muscle aches",NA,"3605, 3650",2020-02-14,NA,NA,NA
-2,NA,Seoul,National Medical Center,127.0057,37.5672,Korea,75,0,55,1964,M,NA,2020-01-10,2020-01-22,2020-01-10,NA,NA,2020-01-22,2020-01-24,23.00,import,Hubei,2020-02-05,"fever, sore throat, cough",NA,"3613, 3644",2020-02-14,NA,NA,NA
-3,NA,Goyang,Myongji Hospital,126.8312,37.6421,Korea,16,0,54,1966,M,NA,2020-01-20,2020-01-20,2020-01-22,2020-01-25,NA,NA,2020-01-26,25.00,import,Hubei,2020-02-12,"fever, chills, cough, sputum",NA,3616,2020-02-14,NA,NA,NA
-4,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,Korea,95,0,55,1964,M,NA,2020-01-20,2020-01-20,2020-01-21,2020-01-26,NA,NA,2020-01-27,26.00,import,Hubei,2020-02-09,"fever, muscle ache",NA,"3617, 3661",2020-02-14,NA,NA,NA
-5,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,31,0,33,1987,M,NA,2020-01-24,2020-01-24,2020-01-26,NA,NA,NA,2020-01-30,29.00,import,Hubei,NA,"cough, malaise",asthma,"3625, 3630, 3680",2020-02-16,NA,NA,NA
-6,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,17,1,55,1964,M,2020-01-22,2020-01-22,NA,NA,NA,NA,NA,2020-01-30,29.00,3,NA,2020-02-19,symptomatic,NA,"3625, 3630, 3632, 3695",2020-02-19,NA,NA,NA
-7,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,9,0,28,1991,M,NA,2020-01-23,2020-01-23,2020-01-26,2020-01-30,NA,"2020-01-26, 2020-01-27, 2020-01-28",2020-01-30,29.00,import,Hubei,2020-02-15,"cough, malaise, fever, sputum",NA,"3628, 3680",2020-02-16,NA,NA,NA
-8,NA,Iksan,Wonkwang University Medical Center,126.9596,35.9643,Korea,113,0,62,1957,F,NA,2020-01-21,2020-01-23,2020-01-21,NA,NA,2020-01-24,2020-01-31,30.00,import,Hubei,2020-02-12,muscle ache,NA,"3630, 3632",2020-02-14,NA,NA,NA
-9,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,2,0,28,1992,F,2020-01-24,2020-01-29,NA,2020-01-30,NA,NA,2020-01-30,2020-01-31,30.00,5,NA,NA,symptomatic,NA,"3630, 3632",2020-02-14,NA,NA,NA
-10,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,43,0,54,1966,F,2020-01-22,2020-01-29,NA,2020-01-29,NA,NA,2020-01-30,2020-01-31,30.00,6,NA,2020-02-19,headache,NA,"3630, 3632, 3695",2020-02-19,NA,NA,NA
-11,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,0,0,25,1995,M,2020-01-22,2020-01-30,NA,2020-01-30,NA,NA,2020-01-30,2020-01-31,30.00,6,NA,2020-02-10,muscle ache,NA,"3630, 3632,3666",2020-02-17,NA,NA,NA
-12,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,China,422,0,48,1971,M,NA,2020-01-19,2020-01-19,2020-01-22,NA,2020-01-30,NA,2020-02-01,31.00,import,Japan,2020-02-18,symptomatic,NA,"3631, 3635, 3636, 3690",2020-02-14,NA,NA,NA
-13,NA,Seoul,National Medical Center,127.0057,37.5672,Korea,0,0,28,1992,M,NA,2020-01-31,2020-01-31,NA,2020-01-31,NA,NA,2020-02-02,32.00,import,NA,NA,symptomatic,NA,3635,2020-02-14,NA,NA,NA
-14,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,China,3,0,40,1980,F,2020-01-19,2020-01-29,NA,2020-01-29,NA,2020-02-02,"2020-01-31, 2020-02-01",2020-02-02,32.00,12,NA,2020-02-18,symptomatic,NA,"3635, 3637, 3690",2020-02-19,https://www.youtube.com/watch?v=eeEEK6q31CE,26:33:00,NA
-15,NA,Seongnam,Armed Forces Capital Hospital,127.1491,37.3928,Korea,15,4,43,1977,M,NA,2020-01-20,2020-01-20,2020-02-01,NA,2020-01-29,NA,2020-02-02,32.00,import,Hubei,NA,respiratory symptoms,NA,"3635, 3636, 3637",2020-02-14,NA,NA,NA
-16,NA,Gwangju,Chonnam National University Hospital,126.9217,35.1419,Korea,450,64,42,1977,F,2020-01-15,2020-01-19,2020-01-19,2020-01-25,2020-02-03,NA,NA,2020-02-04,34.00,import,Thailand,2020-02-19,chills,NA,"3639, 3644, 3695",2020-02-19,NA,NA,NA
-17,NA,Goyang,Myongji Hospital,126.8312,37.6421,Korea,290,0,37,1982,M,2020-01-18,2020-01-23,2020-01-24,2020-01-24,NA,2020-02-04,NA,2020-02-05,35.00,import,Singapore,2020-02-12,symptomatic,NA,"3642, 3650",2020-02-14,NA,NA,NA
-18,NA,Gwangju,Chonnam National University Hospital,126.9217,35.1419,Korea,8,0,20,1999,F,2020-01-19,2020-01-27,NA,NA,NA,2020-02-04,NA,2020-02-05,35.00,16,NA,2020-02-19,symptomatic,NA,"3642, 3652, 3695",2020-02-19,NA,NA,NA
-19,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,68,1,36,1983,M,2020-01-18,2020-01-23,2020-01-24,NA,NA,2020-02-05,"2020-01-30, 2020-02-02, 2020-02-04",2020-02-05,35.00,import,Singapore,2020-02-21,symptomatic,NA,"3645, 3652, 3701",2020-02-21,NA,NA,NA
-20,NA,Seongnam,Armed Forces Capital Hospital,127.1491,37.3928,Korea,2,0,41,1978,F,2020-01-20,2020-02-02,NA,NA,2020-02-05,2020-02-02,NA,2020-02-05,35.00,15,NA,NA,sore throat,NA,3648,2020-02-17,NA,NA,NA
-21,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,6,1,59,1960,F,2020-01-29,2020-01-29,NA,NA,2020-02-05,2020-01-31,2020-01-30,2020-02-05,35.00,6,NA,NA,sore throat,NA,"3648, 3652",2020-02-14,NA,NA,NA
-22,NA,Gwangju,Chosun University Hospital,126.9267,35.1386,Korea,1,1,46,1973,M,2020-01-19,2020-02-03,NA,NA,NA,2020-02-04,2020-02-05,2020-02-06,36.00,16,NA,2020-02-15,none before confirmation,NA,"3648, 3652, 3680",2020-02-16,NA,NA,NA
-23,NA,Seoul,National Medical Center,127.0057,37.5672,China,23,7,57,1962,F,NA,2020-01-23,2020-01-23,2020-02-03,NA,NA,"2020-02-03, 2020-02-04, 2020-02-05",2020-02-06,36.00,import,Hubei,NA,fever,NA,"3648, 3652",2020-02-17,NA,NA,NA
-24,NA,Seoul,National Medical Center,127.0057,37.5672,Korea,0,0,28,1992,M,NA,2020-01-31,2020-01-31,NA,2020-01-31,NA,NA,2020-02-06,36.00,import,Hubei,NA,sore throat,NA,3651,2020-02-14,NA,NA,NA
-25,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,Korea,12,11,73,1946,F,2020-01-31,2020-02-06,NA,2020-02-06,NA,NA,2020-02-06,2020-02-09,39.00,"26,27",NA,2020-02-22,"fever, sore throat, cough",NA,"3661, 3703",2020-02-23,NA,NA,NA
-26,NA,Anseong,Gyeonggi Provincial Medical Center Ansung Hospital,127.2604,37.0172,Korea,0,0,51,1968,M,NA,2020-01-31,2020-01-31,2020-02-08,NA,NA,NA,2020-02-09,39.00,import,Guangdong,NA,sore throat,NA,3662,2020-02-14,NA,NA,NA
-27,NA,Anseong,Gyeonggi Provincial Medical Center Ansung Hospital,127.2604,37.0172,China,40,0,37,1982,F,NA,2020-01-24,2020-01-31,2020-01-24,NA,NA,"2020-02-01, 2020-02-02, 2020-02-04, 2020-02-06, 2020-02-07, 2020-02-08",2020-02-09,39.00,import,Guangdong,NA,cough,NA,"3662, 3664",2020-02-14,NA,NA,NA
-28,NA,Goyang,Myongji Hospital,126.8312,37.6421,China,1,1,30,1989,F,2020-01-20,2020-01-26,NA,NA,NA,2020-01-26,NA,2020-02-11,41.00,3,NA,2020-02-17,none before confirmation,anti-inflammatory use for other conditions,"3666, 3667",2020-02-17,NA,NA,NA
-29,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,117,117,NA,1938,M,2020-01-28,2020-01-31,NA,2020-02-05,2020-02-15,NA,NA,2020-02-16,46.00,83,NA,NA,"fever, discomfort in the chest area, cough, sputum",NA,"3682, 3683, 3701",2020-02-21,NA,NA,NA
-30,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,27,27,NA,1952,F,2020-01-28,2020-02-06,NA,2020-02-06,NA,NA,NA,2020-02-16,46.00,29,NA,NA,"cough, chills, muscle ache",NA,"3685, 3687",2020-02-18,NA,NA,NA
-31,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,170,170,61,1959,F,NA,2020-02-10,NA,2020-02-07,NA,NA,NA,2020-02-18,48.00,NA,NA,NA,"fever, chills",NA,"3689, 3690, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-32,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,Korea,1160,1160,NA,2009,F,NA,NA,NA,NA,NA,2020-02-02,NA,2020-02-18,48.00,"15, 20",NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,NA
-33,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,39,1980,F,NA,NA,NA,2020-02-16,NA,NA,NA,2020-02-19,49.00,31,NA,NA,"fever, malaise",NA,"3694, 3695",2020-02-21,NA,NA,https://blog.naver.com/PostView.nhn?blogId=daegu_news&logNo=221815091280&redirect=Dlog
-34,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,23,1996,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-35,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,25,1994,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-36,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,47,1972,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-37,NA,Daegu,Kyungpook National University Hospital,128.6045,35.8662,Korea,NA,NA,NA,1973,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,NA
-38,Daegu,Daegu,Kyungpook National University Hospital,128.6045,35.8662,Korea,NA,NA,56,1963,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-39,NA,Gyeongju,Dongguk University Gyeongju Hospital,129.1967,35.8583,Korea,NA,NA,NA,1959,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,NA
-40,NA,Seoul,National Medical Center,127.0057,37.5672,Korea,NA,NA,NA,1943,M,NA,2020-02-10,NA,2020-02-11,NA,NA,"2020-02-11, 2020-02-12, 2020-02-13, 2020-02-16, 2020-02-17",2020-02-19,49.00,NA,NA,NA,cough,NA,"3694, 3695",2020-02-20,NA,NA,NA
-41,NA,Gyeongju,Dongguk University Gyeongju Hospital,129.1967,35.8583,Korea,NA,NA,NA,1951,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,NA
-42,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,28,1991,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-43,Daegu,Daegu,Keimyung University Dongsan Medical Center,128.4802,35.8533,Korea,NA,NA,57,1962,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-44,Daegu,Daegu,Kyungpook National University Hospital,128.6045,35.8662,Korea,NA,NA,45,1974,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-45,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,53,1966,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-46,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,27,1992,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3694, 3695",2020-02-19,NA,NA,http://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=441971
-47,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,63,1957,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3697, 3698",2020-02-19,NA,NA,https://blog.naver.com/daegu_news/221787624291
-48,Daegu,Daegu,Kyungpook National University Medical Center,128.5644,35.9567,Korea,NA,NA,71,1948,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3697, 3698",2020-02-19,NA,NA,https://blog.naver.com/daegu_news/221787624291
-49,Daegu,Daegu,Kyungpook National University Hospital,128.4802,35.8533,Korea,NA,NA,57,1962,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3697, 3698",2020-02-19,NA,NA,https://blog.naver.com/daegu_news/221787624291
-50,Daegu,Daegu,Yeungnam University Medical Center,128.5848,35.8473,Korea,NA,NA,75,1944,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3697, 3698",2020-02-19,NA,NA,https://blog.naver.com/daegu_news/221787624291
-51,Daegu,Daegu,Keimyung University Dongsan Medical Center,128.4802,35.8533,Korea,NA,NA,60,1959,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,31,NA,NA,NA,NA,"3697, 3698",2020-02-19,NA,NA,https://blog.naver.com/daegu_news/221787624291
-52,Daegu,NA,NA,NA,NA,Korea,NA,NA,24,1996,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-53,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,37,1982,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-54,NA,Pohang,Pohang Medical Center,129.3549,36.0348,Korea,NA,NA,NA,1963,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,NA
-55,NA,Pohang,Pohang Medical Center,129.3549,36.0348,Korea,NA,NA,NA,1961,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,NA
-56,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,NA,NA,NA,1945,M,2020-01-28,2020-01-31,NA,2020-02-05,NA,NA,NA,2020-02-19,49.00,83,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,NA
-57,Daegu,NA,NA,NA,NA,Korea,NA,NA,29,1990,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-58,Daegu,NA,NA,NA,NA,Korea,NA,NA,25,1994,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-59,Daegu,NA,NA,NA,NA,Korea,NA,NA,33,1986,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-60,Daegu,NA,NA,NA,NA,Korea,NA,NA,59,1961,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-61,Daegu,NA,NA,NA,NA,Korea,NA,NA,58,1962,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-62,Daegu,NA,NA,NA,NA,Korea,NA,NA,59,1960,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-63,Daegu,NA,NA,NA,NA,Korea,NA,NA,51,1968,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-64,Daegu,NA,NA,NA,NA,Korea,NA,NA,59,1961,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-65,Daegu,Daegu,Kyungpook National University Hospital,128.6045,35.8662,Korea,NA,NA,49,1970,F,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-66,NA,NA,NA,NA,NA,Korea,NA,NA,NA,1998,M,NA,NA,NA,NA,NA,NA,NA,2020-02-19,49.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,NA
-67,NA,NA,NA,NA,NA,Korea,NA,NA,NA,1990,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,NA
-68,Daegu,NA,NA,NA,NA,Korea,NA,NA,55,1964,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-69,Daegu,NA,NA,NA,NA,Korea,NA,NA,28,1991,M,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-70,Daegu,NA,NA,NA,NA,Korea,NA,NA,47,1972,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-71,Daegu,NA,NA,NA,NA,Korea,NA,NA,56,1964,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-72,Daegu,NA,NA,NA,NA,Korea,NA,NA,38,1981,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-73,NA,NA,NA,NA,NA,Korea,NA,NA,NA,2000,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,NA
-74,Daegu,NA,NA,NA,NA,Korea,NA,NA,48,1971,M,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-75,NA,NA,NA,NA,NA,Korea,NA,NA,NA,1997,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,NA
-76,Daegu,NA,NA,NA,NA,Korea,NA,NA,36,1984,M,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-77,Daegu,NA,NA,NA,NA,Korea,NA,NA,56,1963,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-78,Daegu,NA,NA,NA,NA,Korea,NA,NA,54,1965,M,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-79,Daegu,NA,NA,NA,NA,Korea,NA,NA,21,1998,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-80,Daegu,NA,NA,NA,NA,Korea,NA,NA,33,1986,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-81,Daegu,NA,NA,NA,NA,Korea,NA,NA,64,1955,F,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
-82,Daegu,NA,NA,NA,NA,Korea,NA,NA,63,1956,M,NA,NA,NA,NA,NA,NA,NA,2020-02-20,50.00,NA,NA,NA,NA,NA,"3697, 3698",2020-02-20,NA,NA,https://blog.naver.com/daegu_news/221787624291
+case,resident_city,hospital_city,hospital_name,lon,lat,nationality,ncontact_2020-02-20_3698,nquaratine_2020-02-20_3698,age,year_of_birth,sex,date_contact_min,date_contact_max,date_import,date_onset,date_quarantine,date_self_quarantine,date_home_before_quarantine,date_confirm,date_conf_sinceJan1,source,import_source,date_discharged
+1,NA,Incheon,Incheon Medical Center,126.6685,37.4785,China,45,0,35,1984,F,NA,1/18/2020,1/19/2020,1/18/2020,1/19/2020,NA,NA,1/20/2020,19,import,Hubei,2/6/2020
+2,NA,Seoul,National Medical Center,127.0057,37.5672,Korea,75,0,55,1964,M,NA,1/10/2020,1/22/2020,1/10/2020,NA,NA,1/22/2020,1/24/2020,23,import,Hubei,2/5/2020
+3,NA,Goyang,Myongji Hospital,126.8312,37.6421,Korea,16,0,54,1966,M,NA,1/20/2020,1/20/2020,1/22/2020,1/25/2020,NA,NA,1/26/2020,25,import,Hubei,2/12/2020
+4,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,Korea,95,0,55,1964,M,NA,1/20/2020,1/20/2020,1/21/2020,1/26/2020,NA,NA,1/27/2020,26,import,Hubei,2/9/2020
+5,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,31,0,33,1987,M,NA,1/24/2020,1/24/2020,1/26/2020,NA,NA,NA,1/30/2020,29,import,Hubei,NA
+6,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,17,1,55,1964,M,1/22/2020,1/22/2020,NA,NA,NA,NA,NA,1/30/2020,29,3,NA,2/19/2020
+7,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,9,0,28,1991,M,NA,1/23/2020,1/23/2020,1/26/2020,1/30/2020,NA,"2020-01-26, 2020-01-27, 2020-01-28",1/30/2020,29,import,Hubei,2/15/2020
+8,NA,Iksan,Wonkwang University Medical Center,126.9596,35.9643,Korea,113,0,62,1957,F,NA,1/21/2020,1/23/2020,1/21/2020,NA,NA,1/24/2020,1/31/2020,30,import,Hubei,2/12/2020
+9,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,2,0,28,1992,F,1/24/2020,1/29/2020,NA,1/30/2020,NA,NA,1/30/2020,1/31/2020,30,5,NA,NA
+10,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,43,0,54,1966,F,1/22/2020,1/29/2020,NA,1/29/2020,NA,NA,1/30/2020,1/31/2020,30,6,NA,2/19/2020
+11,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,0,0,25,1995,M,1/22/2020,1/30/2020,NA,1/30/2020,NA,NA,1/30/2020,1/31/2020,30,6,NA,2/10/2020
+12,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,China,422,0,48,1971,M,NA,1/19/2020,1/19/2020,1/22/2020,NA,1/30/2020,NA,2/1/2020,31,import,Japan,2/18/2020
+13,NA,Seoul,National Medical Center,127.0057,37.5672,Korea,0,0,28,1992,M,NA,1/31/2020,1/31/2020,NA,1/31/2020,NA,NA,2/2/2020,32,import,NA,NA
+14,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,China,3,0,40,1980,F,1/19/2020,1/29/2020,NA,1/29/2020,NA,2/2/2020,"2020-01-31, 2020-02-01",2/2/2020,32,12,NA,2/18/2020
+15,NA,Seongnam,Armed Forces Capital Hospital,127.1491,37.3928,Korea,15,4,43,1977,M,NA,1/20/2020,1/20/2020,2/1/2020,NA,1/29/2020,NA,2/2/2020,32,import,Hubei,NA
+16,NA,Gwangju,Chonnam National University Hospital,126.9217,35.1419,Korea,450,64,42,1977,F,1/15/2020,1/19/2020,1/19/2020,1/25/2020,2/3/2020,NA,NA,2/4/2020,34,import,Thailand,2/19/2020
+17,NA,Goyang,Myongji Hospital,126.8312,37.6421,Korea,290,0,37,1982,M,1/18/2020,1/23/2020,1/24/2020,1/24/2020,NA,2/4/2020,NA,2/5/2020,35,import,Singapore,2/12/2020
+18,NA,Gwangju,Chonnam National University Hospital,126.9217,35.1419,Korea,8,0,20,1999,F,1/19/2020,1/27/2020,NA,NA,NA,2/4/2020,NA,2/5/2020,35,16,NA,2/19/2020
+19,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,68,1,36,1983,M,1/18/2020,1/23/2020,1/24/2020,NA,NA,2/5/2020,"2020-01-30, 2020-02-02, 2020-02-04",2/5/2020,35,import,Singapore,2/21/2020
+20,NA,Seongnam,Armed Forces Capital Hospital,127.1491,37.3928,Korea,2,0,41,1978,F,1/20/2020,2/2/2020,NA,NA,2/5/2020,2/2/2020,NA,2/5/2020,35,15,NA,NA
+21,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,6,1,59,1960,F,1/29/2020,1/29/2020,NA,NA,2/5/2020,1/31/2020,1/30/2020,2/5/2020,35,6,NA,NA
+22,NA,Gwangju,Chosun University Hospital,126.9267,35.1386,Korea,1,1,46,1973,M,1/19/2020,2/3/2020,NA,NA,NA,2/4/2020,2/5/2020,2/6/2020,36,16,NA,2/15/2020
+23,NA,Seoul,National Medical Center,127.0057,37.5672,China,23,7,57,1962,F,NA,1/23/2020,1/23/2020,2/3/2020,NA,NA,"2020-02-03, 2020-02-04, 2020-02-05",2/6/2020,36,import,Hubei,NA
+24,NA,Seoul,National Medical Center,127.0057,37.5672,Korea,0,0,28,1992,M,NA,1/31/2020,1/31/2020,NA,1/31/2020,NA,NA,2/6/2020,36,import,Hubei,NA
+25,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,Korea,12,11,73,1946,F,1/31/2020,2/6/2020,NA,2/6/2020,NA,NA,2/6/2020,2/9/2020,39,"26,27",NA,2/22/2020
+26,NA,Anseong,Gyeonggi Provincial Medical Center Ansung Hospital,127.2604,37.0172,Korea,0,0,51,1968,M,NA,1/31/2020,1/31/2020,2/8/2020,NA,NA,NA,2/9/2020,39,import,Guangdong,NA
+27,NA,Anseong,Gyeonggi Provincial Medical Center Ansung Hospital,127.2604,37.0172,China,40,0,37,1982,F,NA,1/24/2020,1/31/2020,1/24/2020,NA,NA,"2020-02-01, 2020-02-02, 2020-02-04, 2020-02-06, 2020-02-07, 2020-02-08",2/9/2020,39,import,Guangdong,NA
+28,NA,Goyang,Myongji Hospital,126.8312,37.6421,China,1,1,30,1989,F,1/20/2020,1/26/2020,NA,NA,NA,1/26/2020,NA,2/11/2020,41,3,NA,2/17/2020
+29,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,117,117,NA,1938,M,1/28/2020,1/31/2020,NA,2/5/2020,2/15/2020,NA,NA,2/16/2020,46,83,NA,NA
+30,NA,Seoul,Seoul National University Hospital,126.9976,37.5787,Korea,27,27,NA,1952,F,1/28/2020,2/6/2020,NA,2/6/2020,NA,NA,NA,2/16/2020,46,29,NA,NA
+31,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,170,170,61,1959,F,NA,2/10/2020,NA,2/7/2020,NA,NA,NA,2/18/2020,48,NA,NA,NA
+32,NA,Seongnam,Seoul National University Bundang Hospital,127.1234,37.3513,Korea,1160,1160,NA,2009,F,NA,NA,NA,NA,NA,2/2/2020,NA,2/18/2020,48,"15, 20",NA,NA
+33,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,39,1980,F,NA,NA,NA,2/16/2020,NA,NA,NA,2/19/2020,49,31,NA,NA
+34,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,23,1996,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+35,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,25,1994,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+36,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,47,1972,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+37,NA,Daegu,Kyungpook National University Hospital,128.6045,35.8662,Korea,NA,NA,NA,1973,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+38,Daegu,Daegu,Kyungpook National University Hospital,128.6045,35.8662,Korea,NA,NA,56,1963,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+39,NA,Gyeongju,Dongguk University Gyeongju Hospital,129.1967,35.8583,Korea,NA,NA,NA,1959,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+40,NA,Seoul,National Medical Center,127.0057,37.5672,Korea,NA,NA,NA,1943,M,NA,2/10/2020,NA,2/11/2020,NA,NA,"2020-02-11, 2020-02-12, 2020-02-13, 2020-02-16, 2020-02-17",2/19/2020,49,NA,NA,NA
+41,NA,Gyeongju,Dongguk University Gyeongju Hospital,129.1967,35.8583,Korea,NA,NA,NA,1951,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+42,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,28,1991,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+43,Daegu,Daegu,Keimyung University Dongsan Medical Center,128.4802,35.8533,Korea,NA,NA,57,1962,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+44,Daegu,Daegu,Kyungpook National University Hospital,128.6045,35.8662,Korea,NA,NA,45,1974,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+45,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,53,1966,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+46,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,27,1992,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+47,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,63,1957,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+48,Daegu,Daegu,Kyungpook National University Medical Center,128.5644,35.9567,Korea,NA,NA,71,1948,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+49,Daegu,Daegu,Kyungpook National University Hospital,128.4802,35.8533,Korea,NA,NA,57,1962,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+50,Daegu,Daegu,Yeungnam University Medical Center,128.5848,35.8473,Korea,NA,NA,75,1944,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+51,Daegu,Daegu,Keimyung University Dongsan Medical Center,128.4802,35.8533,Korea,NA,NA,60,1959,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,31,NA,NA
+52,Daegu,NA,NA,NA,NA,Korea,NA,NA,24,1996,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+53,Daegu,Daegu,Daegu Medical Center,128.5406,35.8596,Korea,NA,NA,37,1982,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+54,NA,Pohang,Pohang Medical Center,129.3549,36.0348,Korea,NA,NA,NA,1963,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+55,NA,Pohang,Pohang Medical Center,129.3549,36.0348,Korea,NA,NA,NA,1961,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+56,NA,Seoul,Seoul Medical Center,127.0982,37.6128,Korea,NA,NA,NA,1945,M,1/28/2020,1/31/2020,NA,2/5/2020,NA,NA,NA,2/19/2020,49,83,NA,NA
+57,Daegu,NA,NA,NA,NA,Korea,NA,NA,29,1990,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+58,Daegu,NA,NA,NA,NA,Korea,NA,NA,25,1994,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+59,Daegu,NA,NA,NA,NA,Korea,NA,NA,33,1986,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+60,Daegu,NA,NA,NA,NA,Korea,NA,NA,59,1961,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+61,Daegu,NA,NA,NA,NA,Korea,NA,NA,58,1962,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+62,Daegu,NA,NA,NA,NA,Korea,NA,NA,59,1960,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+63,Daegu,NA,NA,NA,NA,Korea,NA,NA,51,1968,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+64,Daegu,NA,NA,NA,NA,Korea,NA,NA,59,1961,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+65,Daegu,Daegu,Kyungpook National University Hospital,128.6045,35.8662,Korea,NA,NA,49,1970,F,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+66,NA,NA,NA,NA,NA,Korea,NA,NA,NA,1998,M,NA,NA,NA,NA,NA,NA,NA,2/19/2020,49,NA,NA,NA
+67,NA,NA,NA,NA,NA,Korea,NA,NA,NA,1990,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+68,Daegu,NA,NA,NA,NA,Korea,NA,NA,55,1964,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+69,Daegu,NA,NA,NA,NA,Korea,NA,NA,28,1991,M,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+70,Daegu,NA,NA,NA,NA,Korea,NA,NA,47,1972,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+71,Daegu,NA,NA,NA,NA,Korea,NA,NA,56,1964,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+72,Daegu,NA,NA,NA,NA,Korea,NA,NA,38,1981,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+73,NA,NA,NA,NA,NA,Korea,NA,NA,NA,2000,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+74,Daegu,NA,NA,NA,NA,Korea,NA,NA,48,1971,M,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+75,NA,NA,NA,NA,NA,Korea,NA,NA,NA,1997,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+76,Daegu,NA,NA,NA,NA,Korea,NA,NA,36,1984,M,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+77,Daegu,NA,NA,NA,NA,Korea,NA,NA,56,1963,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+78,Daegu,NA,NA,NA,NA,Korea,NA,NA,54,1965,M,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+79,Daegu,NA,NA,NA,NA,Korea,NA,NA,21,1998,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+80,Daegu,NA,NA,NA,NA,Korea,NA,NA,33,1986,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+81,Daegu,NA,NA,NA,NA,Korea,NA,NA,64,1955,F,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
+82,Daegu,NA,NA,NA,NA,Korea,NA,NA,63,1956,M,NA,NA,NA,NA,NA,NA,NA,2/20/2020,50,NA,NA,NA
